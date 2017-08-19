@@ -1,0 +1,34 @@
+html{
+  font-size: 10px;
+  font-family: 'Sedgwick Ave', cursive;
+  background-color: #FBEDED;
+}
+body{
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 30px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  border: 10px solid grey;
+  color: green;
+  text-shadow: 3px 3px 1px black;
+  background-color: black;
+}
+p, li{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+p{
+  color: purple;
+}
